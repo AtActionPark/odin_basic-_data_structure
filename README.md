@@ -1,1 +1,1 @@
-# odin_basic-_data_structure
+# odin_basic_data_structure
